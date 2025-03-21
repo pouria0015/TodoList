@@ -1,1 +1,2 @@
+*.js linguist-vendored
 *.blade.php linguist-language=Blade
