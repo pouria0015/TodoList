@@ -1,1 +1,2 @@
-*.php linguist-language=Laravel
+*.php linguist-language=PHP
+*.blade.php linguist-language=Blade
